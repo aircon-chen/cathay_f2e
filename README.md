@@ -1,5 +1,11 @@
 # cathay_f2e
 
+## Run project by docker-compose
+
+`docker-compose up` and you can open browser to `http://localhost` to see the result.
+
+
+## Project init if you have npm environment
 ## Project setup
 ```
 npm install
