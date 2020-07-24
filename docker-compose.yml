@@ -1,0 +1,9 @@
+version: "3"
+services:
+  vue:
+    build: .
+    container_name: cathay_f2e
+    expose:
+      - 8080
+    ports:
+      - 80:8080
